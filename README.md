@@ -83,15 +83,11 @@ The model and vectorizer were tracked using MLflow, and the best-performing mode
 
 ---
 
-## License
-
-MIT License
-
 ---
 
 ## Author
 
-Adarsh (1DS22AIOO3)
+Adarsh
 
 ---
 
